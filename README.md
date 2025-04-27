@@ -1,1 +1,3 @@
 # Portfolio-Optimization-Using-Machine-Learning
+# In the pursuit of financial growth and wealth accumulation, in dividuals and institutions allocate their capital across a range of asset classes—includingequities(stocks), debtinstruments, gold, realestate, government and corporate bonds, among others. 
+# However, in the context of this research, we narrow the scope of asset classes and focus exclusively on stocks (equities), which represent ownership stakes in publicly traded companies. When an investor purchases shares of a company, they acquire partial ownership in that business and, depending on the type of stock, may be entitled to dividends and voting rights.
